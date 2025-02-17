@@ -24,4 +24,4 @@ A human-like bot for BombParty that types words naturally, with realistic pauses
 - The bot runs in the background and does not modify the game.  
 
 ## License  
-BombParty-Bot is under the [MIT License](LICENSE.md).  
+BombParty-Bot is under the [MIT License](https://github.com/naizoxtv/BombParty-Bot/blob/main/LICENSE).  
