@@ -26,7 +26,8 @@ A human-like bot for BombParty that types words naturally, with realistic pauses
 ## License  
 BombParty-Bot is under the [MIT License](https://github.com/naizoxtv/BombParty-Bot/blob/main/LICENSE).  
 
-<!-- Version Francais
+<!-- Version Française -->
+<!--
 # BombParty-Bot  
 Un bot réaliste pour BombParty qui saisit des mots de manière naturelle, avec des pauses, des erreurs et des corrections.  
 
