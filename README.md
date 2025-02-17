@@ -13,7 +13,7 @@ A human-like bot for BombParty that types words naturally, with realistic pauses
 1. Install a **userscript manager**:  
    - [Tampermonkey (Chrome/Edge)](https://www.tampermonkey.net/)  
    - [Violentmonkey (Firefox)](https://violentmonkey.github.io/)  
-2. Download the script: [BotBombParty.js](BombParty-Bot/BotBombParty.js)  
+2. Download the script: [BotBombParty.js](https://github.com/naizoxtv/BombParty-Bot/blob/main/BotBombParty.js)  
 3. Add the script to your userscript manager.  
 4. Open **BombParty** ([JKLM.FUN](https://jklm.fun/)) and press **Right Shift** to activate the bot.  
 
