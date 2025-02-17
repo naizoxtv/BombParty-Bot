@@ -25,3 +25,33 @@ A human-like bot for BombParty that types words naturally, with realistic pauses
 
 ## License  
 BombParty-Bot is under the [MIT License](https://github.com/naizoxtv/BombParty-Bot/blob/main/LICENSE).  
+
+<!-- Version Francais
+# BombParty-Bot  
+Un bot réaliste pour BombParty qui saisit des mots de manière naturelle, avec des pauses, des erreurs et des corrections.  
+
+## Fonctionnalités  
+- ✅ **Comportement de frappe réaliste** (pauses, erreurs, corrections).  
+- ✅ **Détection des mots** à partir d’une large liste de mots français.  
+- ✅ **Activation du bot avec la touche <kbd>Shift Droite</kbd>**.  
+- ✅ **Discret et non intrusif** (ne modifie pas les éléments du jeu).  
+- ✅ **Vitesse de frappe aléatoire** pour éviter la détection.  
+- ✅ **Fonctionne dans toutes les parties de BombParty**.  
+
+## Installation  
+1. Installez un **gestionnaire de scripts utilisateur** :  
+   - [Tampermonkey (Firefox)](https://www.tampermonkey.net/)  
+   - [Tampermonkey (Chrome/Edge)](https://www.tampermonkey.net/index.php?browser=chrome)  
+2. Téléchargez le script : [BotBombParty.js](https://github.com/naizoxtv/BombParty-Bot/blob/main/BotBombParty.js).  
+3. Ajoutez le script à votre gestionnaire de scripts utilisateur.  
+4. Ouvrez **BombParty** ([JKLM.FUN](https://jklm.fun/)) et appuyez sur <kbd>Shift Droite</kbd> pour activer le bot.  
+
+## Utilisation  
+- Appuyez sur <kbd>Shift Droite</kbd> pour **activer/désactiver** le bot.  
+- Le bot **détecte la syllabe**, trouve un mot correspondant et le tape **comme un humain**.  
+- Si nécessaire, il **simule des fautes de frappe et des corrections** pour paraître naturel.  
+- Le bot fonctionne en arrière-plan et ne modifie pas le jeu.  
+
+## Licence  
+BombParty-Bot est sous licence [MIT](https://github.com/naizoxtv/BombParty-Bot/blob/main/LICENSE).  
+-->
